@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chermed/travis-broken-example)](https://travis-ci.org/chermed/travis-broken-example)
+[![Build Status](https://travis-ci.org/chermed/travis-broken-example.svg?branch=master)](https://travis-ci.org/chermed/travis-broken-example)
 
 # travis-broken-example
 
